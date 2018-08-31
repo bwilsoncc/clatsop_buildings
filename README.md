@@ -1,13 +1,16 @@
-# clatsop_buildings
 # Clatsop County Oregon building footprints
 
-1. Downloaded Oregon data from https://github.com/Microsoft/USBuildingFootprints
+in ESRI shapefile format
 
-Then using ESRI model in Toolbox.tbx,
+This is where they came from:
 
-2. Converted to shapefile oregon_buildings.
+I downloaded Oregon data from https://github.com/Microsoft/USBuildingFootprints, 
+then using an ESRI model in Toolbox.tbx,
 
-3. Selected shapes in Clatsop County.
+1. Converted to shapefile oregon_buildings.
 
-4. Exported to shapefile clatsop_buildings in web mercator projection.
+2. Selected shapes in Clatsop County.
 
+3. Exported to shapefile clatsop_buildings in web mercator projection.
+
+There is also an MXD file here that I used to publish the footprints to ArcGIS.
