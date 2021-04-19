@@ -1,11 +1,10 @@
 # Clatsop County Oregon building footprints
 
-This project uses Microsoft US Building Footprints as its source.
+This project uses Microsoft US Building Footprints (release 2) as its source.
 It imports and processes them to create a service for Clatsop County, Oregon
 using standard Esri tools.
 
 2021- switched from ArcMap to ArcGIS Pro.
-
 Now in ESRI File Geodatabase format instead of shapefiles.
 
 ## Overview
